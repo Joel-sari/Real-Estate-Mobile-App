@@ -29,7 +29,8 @@ const Layout = () => {
         return null
     }
     return (
-        <Stack></Stack>
+        // NOTE Headershown is what hides the navbar!
+        <Stack screenOptions={{ headerShown: false}}></Stack>
     )
 }
 export default Layout

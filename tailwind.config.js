@@ -7,7 +7,7 @@ module.exports = {
     // Here we are extendng the fonts that we have imported into this file
     extend: {
       fontFamily: {
-        rubik: ["Rubik-Regular", "sans-serif"],
+        "rubik": ["Rubik-Regular", "sans-serif"],
         "rubik-bold": ["Rubik-Bold", "sans-serif"],
         "rubik-extrabold": ["Rubik-ExtraBold", "sans-serif"],
         "rubik-medium": ["Rubik-Medium", "sans-serif"],
